@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TechArt_Prototype/Intermediate
+TechArt_Prototype/Saved
